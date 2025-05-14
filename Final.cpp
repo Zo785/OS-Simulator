@@ -707,9 +707,9 @@ void header() {
     printInColor(osSimulator, 32);
 
     cout << endl;
-    cout << "\t\t  \033[1;35mLaiba Khalid 23F-0784\033[0m" << endl;
+    cout << "\t\t  \033[1;35mNAME033[0m" << endl;
     sleep(1); // Sleep for 1 second
-    cout << "\t\t  \033[1;34mZainab Rasti 23F-0775\033[0m" << endl;
+    cout << "\t\t  \033[1;34mNAME \033[0m" << endl;
 }
 
 
